@@ -45,7 +45,5 @@ rubrics/
 scripts/
 slides/
 tests/
-teaching_notebooks/08_flashattention.ipynb
-teaching_notebooks/09_pytorch_sdpa.ipynb
 jupyter-implementation.md
 kv-cache-attention-variants-module.md
